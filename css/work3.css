@@ -1,0 +1,13 @@
+#one{
+    background-image: url('/image/india1.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#two{
+    background-image: url('/image/india2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /*https://preview.colorlib.com/#hosting */
+}
