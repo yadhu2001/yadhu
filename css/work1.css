@@ -73,6 +73,7 @@ a:hover{
  background-color: black;
  color: white;
 }
-a{
+a
+{
     text-decoration: none;
 }
