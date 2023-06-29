@@ -1,0 +1,31 @@
+.one{
+    background-color: red;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: rgb(215, 215, 0);
+}
+.four{
+    background-color: blue;
+    padding-top: 100px; padding-bottom: 100px;
+}
+.five{
+    background-color: rgb(57, 57, 57);
+    padding-top: 100px; padding-bottom: 100px;
+}
+.six{
+    background-color: rgb(162, 65, 254);
+    padding-top: 100px; padding-bottom: 100px;
+}
+.seven{
+    background-color: rgb(58, 254, 188);
+   
+}
+.eight{
+    background-color: rgb(125, 125, 8);
+}
+.nine{
+    background-color:rgb(5, 181, 181)
+}
