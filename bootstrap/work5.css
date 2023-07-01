@@ -1,0 +1,35 @@
+.one{
+    background-color: chartreuse;
+    border: 2px solid;
+    padding-top: 10%;padding-bottom: 10%;
+}
+.two{
+    background-color:rgb(6, 202, 202);
+    border: 2px solid;
+    padding-top: 10%;padding-bottom: 10%;
+}
+.three{
+    background-color:brown;
+    border: 2px solid;
+    padding-top: 10%;padding-bottom: 10%;
+}
+.four{
+    background-color:rgb(117, 10, 218);
+    border: 2px solid;
+    padding-top: 10%;padding-bottom: 10%;
+}
+.five{
+    background-color:rgb(255, 220, 168);
+    border: 2px solid;
+    padding-top: 5%;padding-bottom: 8%;
+}
+.six{
+    background-color:rgb(255, 129, 39);
+    border: 2px solid;
+    padding-top: 30%;padding-bottom: 30%;
+}
+.seven{
+    background-color:cornflowerblue;
+    border: 2px solid;
+    padding-top: 27%;padding-bottom: 27%;
+}
