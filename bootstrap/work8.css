@@ -1,0 +1,19 @@
+.one{
+    background-color: rgba(223, 217, 217, 0.685);
+    padding-top: 50%; padding-bottom: 50%;
+}
+.two{
+    background-color: darkgrey;
+}
+.three{
+    background-color:rgb(221, 219, 219);
+    
+}
+.four{
+    border-bottom: 1px solid black;
+}
+.five{
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom: 1px solid;
+}
